@@ -8,3 +8,4 @@ Analyses were performed based on date, campaign or source for metrics such as co
 3. Campaign with the highest total value per week,
 4. The campaign with the largest monthly reach increase,
 5. The adset_name and duration with the longest continuous display.
+[SQL](https://img.shields.io/badge/SQL-BigQuery-orange?logo=google-cloud)
